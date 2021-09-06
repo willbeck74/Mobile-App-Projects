@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7D35166E-76FC-4F35-85AD-25A58DFDB7AF}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViewCSTemplate.iOS Xamarin.HotReload.WrongLinkerErrorInfoBar.ListViewCSTemplate.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewCSTemplate/ListViewCSTemplate/MainPage.cs">
+    <Files>
+      <File FileName="ListViewCSTemplate/ListViewCSTemplate/MainPage.cs" Line="74" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewCSTemplate" expanded="True">
+            <Node name="ListViewCSTemplate" expanded="True">
+              <Node name="MainPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

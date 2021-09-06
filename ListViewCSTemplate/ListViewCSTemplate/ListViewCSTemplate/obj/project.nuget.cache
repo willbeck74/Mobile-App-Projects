@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkRT1G4E9WrL/MmEEdgOL21zfn1Z6wenxR5LlZRplpuk+syeud8/Zhns9UilHBmjR56Bkk3wEmoovWrvs4jH1w==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

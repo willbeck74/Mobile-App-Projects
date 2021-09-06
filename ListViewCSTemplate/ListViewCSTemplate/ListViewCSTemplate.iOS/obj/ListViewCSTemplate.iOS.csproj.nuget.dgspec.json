@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.iOS/ListViewCSTemplate.iOS.csproj": {}
+  },
+  "projects": {
+    "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.iOS/ListViewCSTemplate.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.iOS/ListViewCSTemplate.iOS.csproj",
+        "projectName": "ListViewCSTemplate.iOS",
+        "projectPath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.iOS/ListViewCSTemplate.iOS.csproj",
+        "packagesPath": "/Users/willbeck/.nuget/packages/",
+        "outputPath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.iOS/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/willbeck/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj": {
+                "projectPath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1931, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj",
+        "projectName": "ListViewCSTemplate",
+        "projectPath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate.csproj",
+        "packagesPath": "/Users/willbeck/.nuget/packages/",
+        "outputPath": "/Users/willbeck/Documents/college/coding/cse382/ListViewCSTemplate/ListViewCSTemplate/ListViewCSTemplate/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/willbeck/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.1931, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
