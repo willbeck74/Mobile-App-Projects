@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FirstXAML.MyXAMLPage">
+    <ContentPage.Content>
+  <StackLayout Padding="0, 50, 0, 0">
+    <Label Text="Enter a Phoneword:" FontSize="Large" />
+    <Entry Text="1-855-XAMARIN" />
+    <Button Text="Translate" />
+    <Button Text="Call" IsEnabled="False"/>
+    <Slider Maximum="10"
+            Value="7" />
+    <Stepper Maximum="100"
+             Increment="1"/>
+
+    <StackLayout Orientation="Horizontal">
+      <CheckBox x:Name="checkBox"
+                IsChecked="True"
+                CheckedChanged="OnCheckBoxCheckedChanged"/>
+       <Label x:Name="theLabel"
+              Text="Adult"/>
+    </StackLayout>
+
+    <StackLayout Orientation="Horizontal">
+        <Switch x:Name="switch"
+                IsToggled="True"/>
+        <Label x:Name="blueLabel" Text="BlueTooth"/>
+    </StackLayout>
+
+    <Editor Text="Hello &#x0a; world!"/>
+
+    <StackLayout Orientation="Horizontal">
+        <DatePicker Date="2/20/2020"/>
+        <TimePicker Time="4:19:54"/>
+    </StackLayout>
+
+    <StackLayout Orientation="Horizontal"
+                 Margin="15">
+        <BoxView Color="Red"/>
+        <BoxView Color="PaleVioletRed"/>
+        <BoxView Color="OrangeRed"/>
+        <BoxView Color="MediumVioletRed"/>
+        <BoxView Color="IndianRed"/>
+        <BoxView Color="DarkRed"/>
+    </StackLayout>
+    
+    
+  </StackLayout>
+</ContentPage.Content>
+
+</ContentPage>
