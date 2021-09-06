@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AC1D174A-1070-4207-9C4A-07925A7ACD44}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JSONDemo/JSONDemo.cs">
+    <Files>
+      <File FileName="JSONDemo/JSONDemo.cs" Line="16" Column="14" />
+      <File FileName="JSONDemo/App.config" Line="1" Column="1" />
+      <File FileName="JSONDemo/packages.config" Line="1" Column="1" />
+      <File FileName="JSONDemo/sample.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JSONDemo" expanded="True">
+            <Node name="JSONDemo" expanded="True">
+              <Node name="JSONDemo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.JSONDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
