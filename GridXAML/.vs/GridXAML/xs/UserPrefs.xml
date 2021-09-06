@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A957F8EB-DF85-4F84-BEAD-71A808C02278}|Default">
+  <MonoDevelop.Ide.ItemProperties.GridXAML.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridXAML/GridXAML/AssemblyInfo.cs">
+    <Files>
+      <File FileName="GridXAML/GridXAML/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="GridXAML/GridXAML/GridPage.xaml" />
+      <File FileName="GridXAML/GridXAML/GridPage.xaml.cs" />
+      <File FileName="GridXAML/GridXAML/MainPage.xaml" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

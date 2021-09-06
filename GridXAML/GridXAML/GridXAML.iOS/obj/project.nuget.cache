@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MKqCrfq+4xLzg8nCl1IsNauusMQBeqOa1I3EpiKo99p3i6rz8+mPPX6iwbOHOaxemMs1KvES16NE+clAKNiWg==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/GridXAML/GridXAML/GridXAML.iOS/GridXAML.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
