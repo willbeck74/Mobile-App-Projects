@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{15D22F50-1301-49DC-8D5A-80744E7E8224}|Default">
+  <MonoDevelop.Ide.ItemProperties.isLegal PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1/EnglishDictionary.cs">
+    <Files>
+      <File FileName="WordLookup/ScrabbleWords.cs" Line="1" Column="1" />
+      <File FileName="Project1/EnglishDictionary.cs" Line="1" Column="1" />
+      <File FileName="isLegal/IsLegal.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project1" expanded="True">
+            <Node name="Anagrams" expanded="True" />
+            <Node name="isLegal" expanded="True" />
+            <Node name="Project1" expanded="True">
+              <Node name="EnglishDictionary.cs" selected="True" />
+            </Node>
+            <Node name="WordLookup" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
