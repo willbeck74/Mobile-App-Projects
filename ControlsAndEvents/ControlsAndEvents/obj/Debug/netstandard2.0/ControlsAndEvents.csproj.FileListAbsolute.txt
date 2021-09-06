@@ -1,0 +1,13 @@
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.deps.json
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.dll
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ref/ControlsAndEvents.dll
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.pdb
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.csprojAssemblyReference.cache
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.AssemblyInfoInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.AssemblyInfo.cs
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.csproj.CoreCompileInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.dll
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ref/ControlsAndEvents.dll
+/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.pdb
