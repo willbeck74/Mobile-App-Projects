@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5844A877-A03C-4E04-8033-2109CCEB8B44}|Default">
+  <MonoDevelop.Ide.ItemProperties.MessagingCenter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MessagingCenter/MessagingCenter.cs">
+    <Files>
+      <File FileName="MessagingCenter/MessagingCenter.cs" Line="52" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MessagingCenter" expanded="True">
+            <Node name="MessagingCenter" expanded="True">
+              <Node name="MessagingCenter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
