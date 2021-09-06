@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMdUc6Oz7mmzPNVmCL71Fc2WC7ekM39C7wmwqzNW2ljc9GFvA/b65apHy6zkzmRPPp93pnwTAbcvw83IbGCXIw==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/Graphics/Graphics/Graphics/Graphics.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/skiasharp.views/2.80.2/skiasharp.views.2.80.2.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/skiasharp.views.forms/2.80.2/skiasharp.views.forms.2.80.2.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.buffers/4.4.0/system.buffers.4.4.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SkiaSharp.Views 2.80.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SkiaSharp.Views",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

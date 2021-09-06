@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:skia="clr-namespace:SkiaSharp.Views.Forms;assembly=SkiaSharp.Views.Forms"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Graphics.MainPage">
+
+    <StackLayout Padding="20,40,20,0">
+        <Entry x:Name="entryOne" Text="50" TextChanged="entryOne_TextChanged"/>
+        <Entry x:Name="entryTwo" Text="50" TextChanged="entryTwo_TextChanged"/>
+        <skia:SKCanvasView x:Name="barChart" PaintSurface="barChart_PaintSurface"
+                           HeightRequest="300" WidthRequest="160"/>
+    </StackLayout>
+</ContentPage>
