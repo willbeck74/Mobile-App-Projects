@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberProperties", "NumberProperties\NumberProperties.csproj", "{1190B351-9FE6-4387-BD64-99BDB4A3F51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes", "Primes\Primes.csproj", "{4F9B9787-4C0B-4F40-95B9-86CE759EAD3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evens", "Evens\Evens.csproj", "{14B764C7-FC7C-4D86-8875-C75316EF39B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1190B351-9FE6-4387-BD64-99BDB4A3F51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1190B351-9FE6-4387-BD64-99BDB4A3F51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1190B351-9FE6-4387-BD64-99BDB4A3F51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1190B351-9FE6-4387-BD64-99BDB4A3F51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9B9787-4C0B-4F40-95B9-86CE759EAD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9B9787-4C0B-4F40-95B9-86CE759EAD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9B9787-4C0B-4F40-95B9-86CE759EAD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9B9787-4C0B-4F40-95B9-86CE759EAD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B764C7-FC7C-4D86-8875-C75316EF39B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B764C7-FC7C-4D86-8875-C75316EF39B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B764C7-FC7C-4D86-8875-C75316EF39B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B764C7-FC7C-4D86-8875-C75316EF39B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4018ED9-2ECE-4BB9-B608-FB093788B898}
+	EndGlobalSection
+EndGlobal
