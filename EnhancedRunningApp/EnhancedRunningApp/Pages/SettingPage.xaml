@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="EnhancedRunningApp.Pages.SettingPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                    <Label Text="Gender"/>
+                    <Picker x:Name="genderPicker" WidthRequest="80" SelectedIndexChanged="genderChanged"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Miles"/>
+                <Switch x:Name="distSwitch" Toggled="distSwitch_Toggled"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="DOB"/>
+                <DatePicker x:Name="DOBpicker" DateSelected="DOBpicker_DateSelected"/>
+            </StackLayout>
+
+            <Button Text="Credits" Clicked="Button_ClickedAsync"/>
+            <Label Text="By: Will Beck"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

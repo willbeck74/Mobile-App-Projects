@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F0BB41CA-F4B9-4FA5-B74A-203AE69452CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnhancedRunningApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnhancedRunningApp/Pages/DaySummary.cs">
+    <Files>
+      <File FileName="EnhancedRunningApp/MainPage.xaml.cs" Line="28" Column="41" />
+      <File FileName="EnhancedRunningApp/Pages/WeekSummary.cs" Line="71" Column="34" />
+      <File FileName="EnhancedRunningApp/Pages/DaySummary.cs" Line="23" Column="37" />
+      <File FileName="EnhancedRunningApp/Pages/SummaryPage.cs" Line="1" Column="1" />
+      <File FileName="EnhancedRunningApp/Data/RunLoadData.cs" Line="28" Column="44" />
+      <File FileName="EnhancedRunningApp/Data/Database.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnhancedRunningApp" expanded="True">
+            <Node name="EnhancedRunningApp" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="DaySummary.cs" selected="True" />
+                <Node name="LogPage.xaml" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="EnhancedRunningApp.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

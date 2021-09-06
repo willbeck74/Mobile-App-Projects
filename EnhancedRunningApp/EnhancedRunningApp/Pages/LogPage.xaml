@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="EnhancedRunningApp.LogPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <!--User input for run date-->
+            <DatePicker x:Name="RunDate"/>
+
+            <!--User input for run distance-->
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="RunDist" Text="Distance: " VerticalOptions="End"/>
+                <Entry x:Name="DistEntry" Keyboard="Numeric" Text="0.0" WidthRequest="125" VerticalOptions="End"/>
+            </StackLayout>
+
+            <!--User input for run duration-->
+            <StackLayout Orientation="Horizontal">
+                <Label x:Name="RunDura" Text="Duration: " VerticalOptions="End"/>
+                <Picker x:Name="HourEntry" WidthRequest="50" VerticalOptions="End"/>
+                <Label Text=":" VerticalOptions="End"/>
+                <Picker x:Name="MinEntry" WidthRequest="50" VerticalOptions="End"/>
+            </StackLayout>
+
+            <!--Creating and forming ListView of runs-->
+            <StackLayout>
+                <ListView x:Name="lv" ItemSelected="lv_ItemSelected" RowHeight="80" SeparatorVisibility="None">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <ContentView Padding="10,5,10,5">
+                                    <Grid>
+                                        <BoxView Color="LightGreen" Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Grid.ColumnSpan="3"
+                                                 HeightRequest="30" WidthRequest="30"
+                                                 CornerRadius="10"/>
+                                        
+                                        <Label Text="{Binding GetDate}" Grid.Row="0" Grid.Column="0"
+                                               VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+
+                                        <Label Text="{Binding GetDuration}" Grid.Row="1" Grid.Column="0"
+                                               VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+
+                                        <Label Text="{Binding GetDistance}" Grid.Row="0" Grid.Column="2" Grid.RowSpan="2"
+                                               VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                                    </Grid>
+                                </ContentView>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>  
+                </ListView>
+            </StackLayout>
+
+            <!--Adding of action buttons-->
+            <StackLayout>
+                <Button x:Name="ButtonAdd"    Text="Add"    Clicked="ButtonAdd_Clicked"/>
+                <Button x:Name="ButtonUpdate" Text="Update" Clicked="ButtonUpdate_Clicked"/>
+                <Button x:Name="ButtonDelete" Text="Delete" Clicked="ButtonDelete_Clicked"/>
+            </StackLayout>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
