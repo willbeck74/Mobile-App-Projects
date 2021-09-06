@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+LmnlxZ2CVBR4CObesETUUwn9lE7P6ND9CDNm6xaNTMUpvbS8bCQh+78Z9K/VHtRhBAeCkekI7qo5zIL8Koqg==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/AudioExercise/AudioExercise/AudioExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xam.plugin.simpleaudioplayer/1.4.0/xam.plugin.simpleaudioplayer.1.4.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

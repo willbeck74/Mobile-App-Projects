@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AudioExercise.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center"> 
+        <Button x:Name="Play" Text="Play" Clicked="Play_Clicked"/>
+        <Button x:Name="Stop" Text="Stop" Clicked="Stop_Clicked"/>
+
+        <StackLayout Orientation="Horizontal">
+            <Switch x:Name="loopSwitch" IsToggled="False" PropertyChanged="loopSwitch_PropertyChanged"/>
+            <Label Text="Loop"/>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

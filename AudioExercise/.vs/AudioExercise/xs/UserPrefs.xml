@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{04E5CCC3-BBAF-4B3D-8ECC-D7FBFAEAB2F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AudioExercise/AssemblyInfo.cs">
+    <Files>
+      <File FileName="AudioExercise/AssemblyInfo.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="AudioExercise/MainPage.xaml" Line="11" Column="39" />
+      <File FileName="AudioExercise/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="AudioExercise/App.xaml.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AudioExercise" expanded="True">
+            <Node name="AudioExercise" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AssemblyInfo.cs" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="AudioExercise.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AudioExercise.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4D6795E6-BF24-4F72-B741-56D8FC87E0A2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
