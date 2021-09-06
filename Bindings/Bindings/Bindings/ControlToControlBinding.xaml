@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Bindings.ControlToControlBinding">
+    <StackLayout Margin="0,40,0,40">
+        <Label BindingContext="{Reference anPicker}" Text="{Binding SelectedItem, StringFormat='Item Selected: {0}'}"/>
+        <Label BindingContext="{Reference anPicker}" Text="{Binding SelectedIndex, StringFormat='Item Index: {0}'}"/>
+        <Picker x:Name="anPicker">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>A</x:String>
+                    <x:String>B</x:String>
+                    <x:String>C</x:String>
+                    <x:String>D</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <!--<Entry x:Name="anEntry"/>-->
+        <BoxView Color="Red"/>
+        <Label Text="ROTATION"
+               BindingContext="{x:Reference Name=slider}"
+               Rotation="{Binding Path=Value}"
+               FontAttributes="Bold"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+        <Slider x:Name="slider"
+                Maximum="360"
+                VerticalOptions="CenterAndExpand" />
+
+        <Label BindingContext="{x:Reference slider}"
+               Text="{Binding Value, StringFormat='The angle is {0:F0} degrees'}"
+               FontAttributes="Bold"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+        <BoxView Color="Red"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B7D68922-D0CF-41F7-8CDC-C0D3AE6B1567}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bindings/Bindings/VariableToControlBinding.xaml.cs">
+    <Files>
+      <File FileName="Bindings/Bindings/ControlToControlBinding.xaml" Line="15" Column="28" />
+      <File FileName="Bindings/Bindings/OneWayToSource.xaml" Line="38" Column="29" />
+      <File FileName="Bindings/Bindings/VariableToControlBinding.xaml" Line="17" Column="1" />
+      <File FileName="Bindings/Bindings/VariableToControlBinding.xaml.cs" Line="67" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bindings" expanded="True">
+            <Node name="Bindings" expanded="True">
+              <Node name="VariableToControlBinding.xaml" expanded="True">
+                <Node name="VariableToControlBinding.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Bindings.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17773155-0D29-4CA9-B879-C5F5A501F70A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
