@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "amXTdCIA4EEh0ITTwNeFI0X+9mdQCPF6AyR0n6kQXqTTwLw1dK4AUf8BgC2brQzF36CfiyevH2TL4vj1eLWwuw==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/MyFirstApp/MyFirstApp/MyFirstApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
