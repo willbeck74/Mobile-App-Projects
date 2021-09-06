@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DBIntro.MainPage">
+    <StackLayout Margin="0,40,0,0">
+
+        <StackLayout HeightRequest="200">
+            <Entry x:Name="name"/>
+            <Button x:Name="addUser" Text="Add User" Clicked="addUser_Clicked"/>
+            <ListView x:Name="lv"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Person name"/>
+            <Entry x:Name="personNameEntry" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Is Female?"/>
+            <CheckBox x:Name="isFemale"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="DOB"/>
+            <DatePicker x:Name="dateBirth"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="SSN"/>
+            <Entry x:Name="socialEntry" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Income"/>
+            <Entry x:Name="incomeEntry" HorizontalOptions="FillAndExpand"/>
+        </StackLayout>
+
+        <Button x:Name="addPerson" Text="Add Person" Clicked="addPerson_Clicked" HorizontalOptions="Center"/>
+        <ListView x:Name="lv2"/>
+           
+    </StackLayout>
+
+
+
+</ContentPage>
