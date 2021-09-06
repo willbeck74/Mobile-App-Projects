@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5DC4BAE6-3E8C-47F6-AB2A-BA32FFB6AC19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PickerDemo/PickerDemo/MainPage.cs">
+    <Files>
+      <File FileName="PickerDemo/PickerDemo/MainPage.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PickerDemo" expanded="True">
+            <Node name="PickerDemo" expanded="True">
+              <Node name="MainPage.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PickerDemo.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+</Properties>
