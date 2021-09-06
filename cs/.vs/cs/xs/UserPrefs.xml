@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{491BAAC5-5929-40B9-9F0C-4616EC4E0DB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IO.cs">
+    <Files>
+      <File FileName="Main.cs" Line="18" Column="15" />
+      <File FileName="Asynch.cs" Line="1" Column="1" />
+      <File FileName="IO.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cs" expanded="True">
+            <Node name="cs" expanded="True">
+              <Node name="IO.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/willbeck/Documents/college/coding/cse382/cs/Nullable.cs" relfile="Nullable.cs" line="36" column="13" />
+      <Breakpoint file="/Users/willbeck/Documents/college/coding/cse382/cs/Nullable.cs" relfile="Nullable.cs" line="38" column="13" />
+      <Breakpoint file="/Users/willbeck/Documents/college/coding/cse382/cs/Nullable.cs" relfile="Nullable.cs" line="14" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

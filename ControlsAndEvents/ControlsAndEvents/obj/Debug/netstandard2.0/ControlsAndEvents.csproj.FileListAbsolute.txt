@@ -1,13 +1,3 @@
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.deps.json
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.dll
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ref/ControlsAndEvents.dll
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/bin/Debug/netstandard2.0/ControlsAndEvents.pdb
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.csprojAssemblyReference.cache
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.AssemblyInfoInputs.cache
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.AssemblyInfo.cs
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.csproj.CoreCompileInputs.cache
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/XamlC.stamp
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.dll
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ref/ControlsAndEvents.dll
-/Users/willbeck/Documents/college/coding/cse382/ControlsAndEvents/ControlsAndEvents/obj/Debug/netstandard2.0/ControlsAndEvents.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:56b3dd3bbac3101672b833dd97703d1ebdfda9d58f6bc968b9f61d30a7e8e97f
+size 1785
