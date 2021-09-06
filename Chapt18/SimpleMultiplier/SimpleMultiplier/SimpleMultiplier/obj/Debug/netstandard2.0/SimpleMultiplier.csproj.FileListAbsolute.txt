@@ -1,0 +1,11 @@
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/bin/Debug/netstandard2.0/SimpleMultiplier.deps.json
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/bin/Debug/netstandard2.0/SimpleMultiplier.dll
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/bin/Debug/netstandard2.0/SimpleMultiplier.pdb
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.csprojAssemblyReference.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplierPage.xaml.g.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.AssemblyInfoInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.AssemblyInfo.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.csproj.CoreCompileInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.dll
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/SimpleMultiplier/SimpleMultiplier/SimpleMultiplier/obj/Debug/netstandard2.0/SimpleMultiplier.pdb

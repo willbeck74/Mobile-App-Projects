@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{80A39DE2-0018-436B-A020-276F15285C49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMultiplier/SimpleMultiplier/SimpleMultiplierPage.xaml">
+    <Files>
+      <File FileName="SimpleMultiplier/SimpleMultiplier/SimpleMultiplierPage.xaml" Line="43" Column="33" />
+      <File FileName="SimpleMultiplier/SimpleMultiplier/SimpleMultiplierViewModel.cs" />
+      <File FileName="SimpleMultiplier/SimpleMultiplier/StepperViewModel.cs" />
+      <File FileName="SimpleMultiplier/SimpleMultiplier/SimpleMultiplierPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SimpleMultiplier" expanded="True">
+            <Node name="SimpleMultiplier" expanded="True">
+              <Node name="SimpleMultiplierPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpleMultiplier.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

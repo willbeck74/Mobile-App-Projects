@@ -1,0 +1,13 @@
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/bin/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.deps.json
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/bin/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.dll
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/bin/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.pdb
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.csprojAssemblyReference.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/CheckBox.xaml.g.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/NewCheckBox.xaml.g.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/PickerCell.xaml.g.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.AssemblyInfoInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.AssemblyInfo.cs
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.csproj.CoreCompileInputs.cache
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.dll
+/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/obj/Debug/netstandard2.0/Xamarin.FormsBook.Toolkit.pdb

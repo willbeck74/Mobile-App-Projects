@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdanbiUFXvaTTocflGZe3ahn8xUj0JTeqivtjT4njEASsacENu2KmhzYzpXPqHkYhMbzrpJhjP23XEfzjp+/9w==",
+  "success": true,
+  "projectFilePath": "/Users/willbeck/Documents/college/coding/cse382/Chapt18/HslSliders/HslSliders/Xamarin.FormsBook.Toolkit/Xamarin.FormsBook.Toolkit.csproj",
+  "expectedPackageFiles": [
+    "/Users/willbeck/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/willbeck/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{DB716279-FB7E-4953-9318-014D88C14200}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HslSliders/HslSliders/HslSlidersPage.xaml">
+    <Files>
+      <File FileName="HslSliders/HslSliders/HslSlidersPage.xaml" Line="30" Column="30" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="749" Y="133" Width="751" Height="961">
+        <Files>
+          <File FileName="HslSliders/Xamarin.FormsBook.Toolkit/ColorViewModel.cs" Line="142" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HslSliders" expanded="True">
+            <Node name="HslSliders" expanded="True">
+              <Node name="HslSlidersPage.xaml" selected="True" />
+            </Node>
+            <Node name="Xamarin.FormsBook.Toolkit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HslSliders.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

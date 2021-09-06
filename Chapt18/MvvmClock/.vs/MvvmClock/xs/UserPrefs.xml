@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{8C0FE185-1761-4E9A-A457-0BC154FAD3E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvvmClock/Xamarin.FormsBook.Toolkit/DateTimeViewModel.cs">
+    <Files>
+      <File FileName="MvvmClock/MvvmClock/MvvmClockPage.xaml" Line="42" Column="44" />
+      <File FileName="MvvmClock/Xamarin.FormsBook.Toolkit/DateTimeViewModel.cs" Line="9" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvvmClock" expanded="True">
+            <Node name="MvvmClock" expanded="True">
+              <Node name="MvvmClockPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Xamarin.FormsBook.Toolkit" expanded="True">
+              <Node name="DateTimeViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MvvmClock.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

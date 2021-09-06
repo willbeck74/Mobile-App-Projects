@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D26AA0D3-12FA-4911-8652-E6A85FC35689}|Default">
+  <MonoDevelop.Ide.ItemProperties.AddingMachine.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.398D3105-42C5-4376-A099-B9AF0797E4B7" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddingMachine/Xamarin.FormsBook.Toolkit/AdderViewModel.cs">
+    <Files>
+      <File FileName="AddingMachine/Xamarin.FormsBook.Toolkit/AdderViewModel.cs" Line="145" Column="11" IsPinned="True" />
+      <File FileName="AddingMachine/AddingMachine/AddingMachinePage.xaml" Line="64" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AddingMachine" expanded="True">
+            <Node name="AddingMachine" expanded="True" />
+            <Node name="Xamarin.FormsBook.Toolkit" expanded="True">
+              <Node name="AdderViewModel.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
