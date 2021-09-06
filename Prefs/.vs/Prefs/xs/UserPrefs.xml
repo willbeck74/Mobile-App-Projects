@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{55FAEC14-9376-40AD-A968-8CE76A5706A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prefs/Prefs/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Prefs/Prefs/MainPage.xaml.cs" Line="5" Column="19" />
+      <File FileName="Prefs/Prefs/MainPage.xaml" Line="20" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prefs" expanded="True">
+            <Node name="Prefs" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|ARM" />
+  <MonoDevelop.Ide.ItemProperties.Prefs.iOS Xamarin.HotReload.WrongLinkerErrorInfoBar.Prefs.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17773155-0D29-4CA9-B879-C5F5A501F70A" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
