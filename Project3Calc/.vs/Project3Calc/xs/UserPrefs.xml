@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{68995A0E-B4B4-42E6-920D-C5041E4BED4E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project3Calc.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51E0208D-DD4E-49B6-BA7E-DE0315B129DE" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project3Calc/MainPage.xaml">
+    <Files>
+      <File FileName="Project3Calc/MainPage.xaml" Line="7" Column="2" />
+      <File FileName="Project3Calc/MainPage.xaml.cs" Line="173" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Project3Calc" expanded="True">
+            <Node name="Project3Calc" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Project3Calc.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

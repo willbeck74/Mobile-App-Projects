@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{68995A0E-B4B4-42E6-920D-C5041E4BED4E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project3Calc.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.17773155-0D29-4CA9-B879-C5F5A501F70A" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

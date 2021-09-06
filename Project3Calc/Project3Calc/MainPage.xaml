@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Project3Calc.MainPage">
+
+     <Page.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BlueButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Blue"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="WidthRequest" Value="60"/>
+            </Style>
+            <Style x:Key="TanButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="Tan"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="WidthRequest" Value="60"/>
+            </Style>
+            <Style x:Key="NumButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="DarkSlateGray"/>
+                <Setter Property="TextColor" Value="White"/>
+                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+                <Setter Property="WidthRequest" Value="60"/>
+            </Style>
+        </ResourceDictionary>
+    </Page.Resources>
+
+    <StackLayout Padding="0, 30, 0, 0">
+
+        <Label x:Name="display" Text="0" FontSize="30" HorizontalOptions="EndAndExpand" HeightRequest="50"/>
+
+        <Grid HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75" />
+                <RowDefinition Height="75" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackLayout x:Name="investDisplay" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Grid.RowSpan="2" BackgroundColor="Black">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Starting Amount:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="startAmountLabel" Text="$0" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Years:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="yearLabel" Text="30" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Rate of Return:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="rorLabel" Text="5%" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Regular Investment:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="riLabel" Text="$500" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Frequency of Investment:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="foiLabel" Text="Monthly" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Final Balance:" TextColor="White" HorizontalOptions="Start"/>
+                    <Label x:Name="fbLabel" Text="$0" TextColor="White" HorizontalOptions="EndAndExpand"/>
+                </StackLayout>
+            </StackLayout>
+
+            <!--<Button Text="Display" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Grid.RowSpan="2" BackgroundColor="Black" />-->
+            <Button Text="C" Grid.Row="0" Grid.Column="4" BackgroundColor="Red" Pressed="OnDigTapped"/>
+            <Button Text="FINAL" Grid.Row="1" Grid.Column="4" BackgroundColor="Tan" Pressed="OnInvestTapped"/>
+
+            <Button x:Name="startButton" Text="START"  Grid.Row="2" Grid.Column="0" Style="{StaticResource BlueButtonStyle}" Pressed="OnInvestTapped" />
+            <Button x:Name="yearsButton" Text="YEARS"  Grid.Row="2" Grid.Column="1" Style="{StaticResource BlueButtonStyle}" Pressed="OnInvestTapped"/>
+            <Button x:Name="rateButton" Text="RATE"   Grid.Row="2" Grid.Column="2" Style="{StaticResource BlueButtonStyle}" Pressed="OnInvestTapped"/>
+            <Button x:Name="investButton" Text="INVEST" Grid.Row="2" Grid.Column="3" Style="{StaticResource BlueButtonStyle}" Pressed="OnInvestTapped"/>
+            <Button x:Name="freqButton" Text="FREQ"   Grid.Row="2" Grid.Column="4" Style="{StaticResource BlueButtonStyle}" Pressed="OnInvestTapped"/>
+
+            <Button Text="1/x" Grid.Row="3" Grid.Column="0" BackgroundColor="Bisque" TextColor="DarkGray" IsEnabled="False"/>
+            <Button Text="M+" Grid.Row="4" Grid.Column="0" Style="{StaticResource TanButtonStyle}" Pressed="OnMemoryTapped" />
+            <Button Text="M-" Grid.Row="5" Grid.Column="0" Style="{StaticResource TanButtonStyle}" Pressed="OnMemoryTapped" />
+            <Button Text="MR" Grid.Row="6" Grid.Column="0" Style="{StaticResource TanButtonStyle}" Pressed="OnMemoryTapped" />
+            <Button Text="MC" Grid.Row="7" Grid.Column="0" Style="{StaticResource TanButtonStyle}" Pressed="OnMemoryTapped" />
+
+            <Button Text="%" Grid.Row="3" Grid.Column="1" BackgroundColor="Bisque" TextColor="DarkGray" IsEnabled="False"/>
+            <Button Text="7" Grid.Row="4" Grid.Column="1" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="4" Grid.Row="5" Grid.Column="1" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="1" Grid.Row="6" Grid.Column="1" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="0" Grid.Row="7" Grid.Column="1" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+
+            <Button Text="/" Grid.Row="3" Grid.Column="2" Style="{StaticResource TanButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="8" Grid.Row="4" Grid.Column="2" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="5" Grid.Row="5" Grid.Column="2" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="2" Grid.Row="6" Grid.Column="2" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text=" " Grid.Row="7" Grid.Column="2" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+
+            <Button Text="X" Grid.Row="3" Grid.Column="3" Style="{StaticResource TanButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="9" Grid.Row="4" Grid.Column="3" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="6" Grid.Row="5" Grid.Column="3" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="3" Grid.Row="6" Grid.Column="3" Style="{StaticResource NumButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="+/-" Grid.Row="7" Grid.Column="3" Style="{StaticResource NumButtonStyle}" Pressed="OnPlusMinusTapped"/>
+
+            <Button Text="-" Grid.Row="3" Grid.Column="4" Style="{StaticResource TanButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="+" Grid.Row="4" Grid.Column="4" Grid.RowSpan="2" Style="{StaticResource TanButtonStyle}" Pressed="OnDigTapped"/>
+            <Button Text="=" Grid.Row="6" Grid.Column="4" Grid.RowSpan="2" Style="{StaticResource TanButtonStyle}" Pressed="OnArithmaticTapped" />
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
